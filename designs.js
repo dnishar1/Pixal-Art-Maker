@@ -9,6 +9,11 @@ $('#submit').click(function(inputSubmit){
 });
 // When size is submitted by the user, call makeGrid()
 
+/**
+ * A grid should appear when
+ * users submit width and height
+ * Width and Height variables are created and used
+ */
 function makeGrid() {
 
 // Your code goes here!
@@ -25,7 +30,9 @@ function makeGrid() {
         let r = element.insertRow(i);
         for (let j = 0; j < w; j++) {
             let pixelArt = r.insertCell(j);
-            pixelArt.addEventListener('click', events(pixelArt));
+            pixelArt.addEventListener('click', function() {
+                events(pixelArt);
+            });
         }
     }
 
