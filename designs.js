@@ -21,7 +21,7 @@ function makeGrid() {
     let h = inputHeight.val();
     let w = inputWidth.val();
     let events = function(pixelArt){
-        pixelArt.addEventListener('click', function(){
+        pixelArt.addEventListener(function(){
             pixelArt.style.backgroundColor = color.val();
         });
     }
