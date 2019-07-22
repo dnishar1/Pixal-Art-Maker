@@ -7,7 +7,6 @@ $('#submit').click(function(inputSubmit){
     inputSubmit.preventDefault();
     makeGrid();
 });
-// When size is submitted by the user, call makeGrid()
 
 /**
  * A grid should appear when
