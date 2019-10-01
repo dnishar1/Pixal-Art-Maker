@@ -1,5 +1,4 @@
 # Pixel Art Maker
-
 ## Table of Contents
 
 * [Instructions](#instructions)
