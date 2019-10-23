@@ -1,7 +1,11 @@
 # Pixel Art Maker
 ## Table of Contents
 
+* [About](#About)
 * [Instructions](#instructions)
+
+## About:
+Pixal Art Maker is an visual color filling game to make a variety of art in small pixals. 
 
 ## Instruction:
 
