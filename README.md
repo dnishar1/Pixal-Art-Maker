@@ -4,9 +4,9 @@
 * [About](#About)
 * [Instructions](#instructions)
 
-## About:
+## About
 Pixal Art Maker is an visual color filling game to make a variety of art in small pixals. 
 
-## Instruction:
+## Instruction
 
 To get started, download and/or clone this folder on your local device and open the index.html file on any brower to create your  personalized art.
